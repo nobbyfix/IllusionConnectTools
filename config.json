@@ -1,0 +1,10 @@
+{
+	"AssetRepo": "ClientAssets",
+	"AssetDir": "ClientAssets/{client}",
+	"UnpackTempDir": "_unpack",
+	"AssetRemainDir": "_remain",
+	"UpdateTempDir": "_update",
+	"GameConfigJsonDir": "gameconfig",
+	"DeviceID": "",
+	"UserAgent": ""
+}
